@@ -1,8 +1,11 @@
-const CACHE_NAME = 'meu-cache-v2'
+const CACHE_NAME = 'meu-cache-v3'
 const CACHE_FILES = [
     // Informar os arquivos que estáticos que ficarão disponíveis offline
     '/',
     '/index.html',
+    '/historia.html',
+    '/obras.html',
+
     '/manifest.json',
     'https://fonts.googleapis.com/css2?family=Piedra&display=swap',
     'https://fonts.googleapis.com/css2?family=Roboto&display=swap',
@@ -13,7 +16,6 @@ const CACHE_FILES = [
     '/assets/imagens/fundo.png',
     '/assets/imagens/pensadores.jpg',
     '/assets/js/main.js',
-    '/historia.html',
 ]
 
 // Coloca seus arquivos no CACHE do navegador web
