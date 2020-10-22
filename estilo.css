@@ -1,0 +1,88 @@
+div#container {
+       background-color: #ffffff;
+       margin: auto auto;
+       width: 1200px;
+}
+
+div.centraliza {
+  display: block;
+  width: 340px;
+  margin: auto auto;
+}
+
+h1 {
+    color: #ff9900;
+    font-family: 'Piedra', cursive;
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: 40pt;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h2, h3, caption {
+	 font-family: 'Piedra', cursive;
+   text-align: center;
+}
+
+body {
+    background-image: url("fundo.png");
+    font-family: 'Roboto', sans-serif; 
+}
+
+a:link {
+    color: #ff9933;
+}
+
+a:visited {
+  color: #ff9933;
+}
+
+a:active {
+  color: #3300ff;
+}
+
+a:hover {
+  color: #3300ff;
+}
+
+ul.menu {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+ul.menu li {
+   float: left;
+}
+
+ul.menu a:link, ul.menu a:visited {
+   display: block;
+   width: 180px;
+   font-weight: bold;
+   color: #000000;
+   background-color: #ff9933;
+   text-align: center;
+   text-decoration: none;
+   padding: 10px;
+}
+
+ul.menu a:hover, ul.menu a:active {
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+table {
+  margin: auto auto;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+a {
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+}
+
