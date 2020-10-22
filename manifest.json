@@ -1,0 +1,23 @@
+{
+  "short_name": "Filosofia",
+  "name": "Meu APP de Filosofia",
+  "description": "Trabalho Interdisciplinar com Filosofia",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#00FF00",
+  "theme_color": "#3a243b",
+  "icons": [
+    {
+      "src": "assets/icones/icone-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icones/icone-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
