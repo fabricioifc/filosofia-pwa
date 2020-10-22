@@ -1,7 +1,7 @@
 div#container {
        background-color: #ffffff;
        margin: auto auto;
-       width: 1200px;
+       width: 100%;
 }
 
 div.centraliza {
@@ -26,7 +26,7 @@ h2, h3, caption {
 }
 
 body {
-    background-image: url("fundo.png");
+    background-image: url("../imagens/fundo.png");
     font-family: 'Roboto', sans-serif; 
 }
 
